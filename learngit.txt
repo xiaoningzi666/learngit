@@ -7,4 +7,5 @@
 合并某分支到当前分支 git merge <分支名称>
 删除分支 git branch <分支名称>
 
-在master修改分支
+解决冲突
+
