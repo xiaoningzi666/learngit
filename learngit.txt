@@ -4,3 +4,5 @@
 新建切换分支是 git checkout -b  dev
 当先建立远程库时候，拷贝到本地用 git  clone
 直接git push上去
+合并某分支到当前分支 git merge <分支名称>
+删除分支 git branch <分支名称>
