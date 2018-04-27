@@ -1,4 +1,4 @@
-新建一个分支dev  git  branch dev
+﻿新建一个分支dev  git  branch dev
 切换到换分支dev  git checkout   dev
 查看分支当前分支 git  branch
 新建切换分支是 git checkout -b  dev
@@ -11,3 +11,6 @@
 请求
 
 11111
+
+
+dddd
